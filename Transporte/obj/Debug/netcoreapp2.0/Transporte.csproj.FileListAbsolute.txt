@@ -1,0 +1,18 @@
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\bin\Debug\netcoreapp2.0\Transporte.deps.json
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\bin\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\bin\Debug\netcoreapp2.0\Transporte.pdb
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\obj\Debug\netcoreapp2.0\Transporte.csprojResolveAssemblyReference.cache
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\obj\Debug\netcoreapp2.0\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\obj\Debug\netcoreapp2.0\Transporte.AssemblyInfoInputs.cache
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\obj\Debug\netcoreapp2.0\Transporte.AssemblyInfo.cs
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\obj\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\FlashThink\GIT\Estacionamento\Transporte\obj\Debug\netcoreapp2.0\Transporte.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\bin\Debug\netcoreapp2.0\Transporte.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\bin\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\bin\Debug\netcoreapp2.0\Transporte.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\obj\Debug\netcoreapp2.0\Transporte.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\obj\Debug\netcoreapp2.0\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\obj\Debug\netcoreapp2.0\Transporte.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\obj\Debug\netcoreapp2.0\Transporte.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\obj\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Transporte\obj\Debug\netcoreapp2.0\Transporte.pdb

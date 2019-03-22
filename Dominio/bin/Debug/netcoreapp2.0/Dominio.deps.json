@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "5d4c76e11beee1649d5ee48959350463ef612246"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Dominio/1.0.0": {
+        "dependencies": {
+          "Infraestrutura": "1.0.0",
+          "Tango": "2.0.0.1",
+          "Transporte": "1.0.0"
+        },
+        "runtime": {
+          "Dominio.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "Tango/2.0.0.1": {
+        "runtime": {
+          "lib/net45/Tango.dll": {
+            "assemblyVersion": "2.0.0.1",
+            "fileVersion": "2.0.0.1"
+          }
+        }
+      },
+      "Infraestrutura/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "Microsoft.IdentityModel.Tokens": "5.1.4.0"
+        },
+        "runtime": {
+          "Infraestrutura.dll": {}
+        }
+      },
+      "Transporte/1.0.0": {
+        "runtime": {
+          "Transporte.dll": {}
+        }
+      },
+      "Microsoft.IdentityModel.Tokens.Reference/5.1.4.0": {
+        "runtime": {
+          "Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "5.1.4.0",
+            "fileVersion": "5.1.4.216"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Tango/2.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZHWXTi5t8KENPVLJKUwce4Vo+QijXC7uUaRAOyo5HLAZGeY4UGaigAtWGhXhNQu+ueO/rrxB4s1I5XjQbe+GSg==",
+      "path": "tango/2.0.0.1",
+      "hashPath": "tango.2.0.0.1.nupkg.sha512"
+    },
+    "Infraestrutura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transporte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.IdentityModel.Tokens.Reference/5.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

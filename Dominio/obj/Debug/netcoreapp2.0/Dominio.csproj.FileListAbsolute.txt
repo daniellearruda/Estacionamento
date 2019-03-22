@@ -1,0 +1,38 @@
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Dominio.deps.json
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Dominio.dll
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Dominio.pdb
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Infraestrutura.dll
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Infraestrutura.pdb
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Transporte.pdb
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.xml
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.Mensagens.Mensagem.resources
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.Mensagens.Termo.resources
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.csproj.GenerateResource.cache
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.AssemblyInfo.cs
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.csproj.CopyComplete
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.dll
+C:\Users\FlashThink\GIT\Estacionamento\Dominio\obj\Debug\netcoreapp2.0\Dominio.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Dominio.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Dominio.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Dominio.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Infraestrutura.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Transporte.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Infraestrutura.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Transporte.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\bin\Debug\netcoreapp2.0\Microsoft.IdentityModel.Tokens.xml
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.Mensagens.Mensagem.resources
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.Mensagens.Termo.resources
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.csproj.CopyComplete
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estacionamento-master\Dominio\obj\Debug\netcoreapp2.0\Dominio.pdb
